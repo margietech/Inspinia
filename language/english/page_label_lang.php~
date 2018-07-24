@@ -1,0 +1,62 @@
+<?php
+
+
+defined('BASEPATH') OR exit('No direct script access allowed');
+//page heading label
+$lang['share_file_header'] = 'Share File';
+$lang['leave_management_header'] = 'Leave Management';
+$lang['user_management_header'] = 'User Management';
+$lang['leave_requests_header'] = 'Leave Requests';
+$lang['dashboard_header'] = 'Dashboard';
+//button label
+$lang['close_btn'] = 'Close';
+$lang['cancel_btn'] = 'Cancel';
+$lang['approve_btn'] = 'Approve1';
+$lang['reject_btn'] = 'Reject';
+$lang['add_user_btn'] = 'Add User';
+$lang['upload_btn'] = 'Upload';
+$lang['download_btn'] = 'Download';
+$lang['delete_btn'] = 'Delete';
+$lang['edit_btn'] = 'Edit';
+$lang['submit_btn'] = 'Submit';
+$lang['request_btn'] = 'Request';
+$lang['request_leave_btn'] = 'Request Leave';
+//label-share file
+$lang['file_colm'] = 'File';
+$lang['size_colm'] = 'Size';
+$lang['time_colm'] = 'Uploaded Time';
+$lang['action_colm'] = 'Action';
+$lang['Select_file_label'] = 'Select file';
+$lang['file_upload_tbl'] = 'Media Master';
+//label-user management
+$lang['name_lbl'] = 'Name';
+$lang['email_lbl'] = 'Email';
+$lang['username_lbl'] = 'Username';
+$lang['pwd_lbl'] = 'Password';
+$lang['status_lbl'] = 'Status';
+$lang['fname_lbl'] = 'Firstname';
+$lang['lname_lbl'] = 'Lastname';
+$lang['active_lbl'] = 'Active';
+$lang['inactive_lbl'] = 'Inactive';
+$lang['user_master_tbl'] = 'User master';
+$lang['add_user_lbl'] = 'Add New User';
+//label-leave
+$lang['my_leave_request_tbl'] = 'My Leave requests';
+$lang['sub_lbl'] = 'Subject';
+$lang['date_lbl'] = 'Date';
+$lang['leavetype_lbl'] = 'Leave Type';
+$lang['desc_lbl'] = 'Description';
+$lang['cl_lbl'] = 'CL';
+$lang['sl_lbl'] = 'SL';
+$lang['add_request_lbl'] = 'Add Request';
+//label-leave management
+$lang['emp_leave_request_tbl'] = 'Employee Leave requests';
+
+
+
+// $lang[''] = '';
+// $lang[''] = '';
+// $lang[''] = '';
+// $lang[''] = '';
+
+?>
